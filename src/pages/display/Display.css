@@ -1,0 +1,8 @@
+.mainh1 {
+  text-align: center;
+  padding: 1rem;
+  margin-top: 3rem;
+  border-bottom: solid 1px black;
+  border-top: solid 1px black;
+  text-transform: uppercase;
+}
